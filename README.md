@@ -10,7 +10,7 @@ It is also true that there are some differences and some new pieces (elephants, 
 ## 📫 How to reach me
 
 - Of course, this [*Web Site*](https://cescacs.github.io).
-Here can be found the rules of the game, and also this software.
+Here can be found the rules of the game, and also the javascript software.
 
 - *C'escacs* web site is now also [published at https://cescacs.orgfree.com](https://cescacs.orgfree.com).
 
