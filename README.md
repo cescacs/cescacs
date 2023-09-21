@@ -9,9 +9,9 @@ It is also true that there are some differences and some new pieces (elephants, 
 
 ## 📫 How to reach me
 
-- Of course, this [*Web Site*](https://cescacs.github.io)
+- Of course, this [*Web Site*](https://cescacs.github.io).
+Here can be found the rules of the game, and also this software.
 
 - *C'escacs* web site is now also [published at https://cescacs.orgfree.com](https://cescacs.orgfree.com).
-There can be found the rules of the game, and also this software.
 
 - Contact address: ![email address image](https://github.com/cescacs/cescacs/blob/dd0417bb179d204bdce1a020a33fe6c83a5b79af/email-address-image.gif)
