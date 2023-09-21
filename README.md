@@ -1,4 +1,4 @@
-- 👋 Hi, This is @cescacs, the C'escacs game repository
+# 👋 Hi, This is @cescacs, the C'escacs game repository
 
 C'escacs is a hexagonal chess variant :chess_pawn: which is played in a 169 hexes board, forming a regular hexagon.
 
