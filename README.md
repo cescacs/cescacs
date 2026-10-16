@@ -9,8 +9,8 @@ It is also true that there are some differences and some new pieces (elephants, 
 
 ## 📫 How to reach me
 
-- Of course, this [*Web Site*](https://cescacs.github.io).
-Here can be found the rules of the game, and also the javascript software.
+- Of course, the [GitHub published *Web Site*](https://cescacs.github.io).
+There can be found the rules of the game, and also the javascript (typescript) software to try out the game (but machine doesn't move).
 
 - *C'escacs* web site is now also [published at https://cescacs.orgfree.com](https://cescacs.orgfree.com).
 
