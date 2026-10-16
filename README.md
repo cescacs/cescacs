@@ -18,6 +18,6 @@ Here can be found the rules of the game, and also the javascript software.
 
 ### There are specific ***README*** files on each specific repository
 
-- The [Web site README](https://github.com/cescacs/cescacs.github.io/README.md).
-- The [javascript project README](https://github.com/cescacs/cescacs.typescript/blob/master/README.md).
+- The [Web site README](https://github.com/cescacs/cescacs.github.io#).
+- The [javascript (typescript) project README](https://github.com/cescacs/cescacs.typescript/blob/master/README.md).
 
